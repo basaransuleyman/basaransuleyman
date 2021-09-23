@@ -9,6 +9,6 @@ Tech
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
 Find me on
->![](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)  https://www.linkedin.com/in/basaransuleyman/ or 
+>![](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)  https://www.linkedin.com/in/basaransuleyman/ or  <space><space> <space><space>
 >![](https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png)  https://www.youtube.com/channel/UCpP5fwJG9qYnHS0YG13liAg/videos
 
