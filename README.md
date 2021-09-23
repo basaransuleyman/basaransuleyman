@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
-
+![](https://img.shields.io/badge/OS-Linux(Ubuntu)-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
 *Text me on* [Linkedin](https://www.linkedin.com/in/basaransuleyman/) 
 
