@@ -7,4 +7,4 @@
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
 
-![](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)[3]
+![](https://icons.iconarchive.com/icons/sicons/basic-round-social/16/linkedin-icon.png)https://www.linkedin.com/in/basaransuleyman/
