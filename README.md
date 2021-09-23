@@ -1,4 +1,4 @@
-### **My name is Suleyman and I'm a software engineer/mobile developer. I am from Turkey, living in Istanbul, and currently working at Hepsiburada**
+:raising_hand: **My name is Suleyman and I'm a software engineer/mobile developer. I am from Turkey, living in Istanbul, and currently working at Hepsiburada** 
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
@@ -18,4 +18,4 @@
 ![OS](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/2/1412248789926/f7a97e1d-1915-45fd-b8c5-20e5d934ed73-620x371.png?width=445&quality=45&auto=format&fit=max&dpr=2&s=00e127e43000ecd6f435e012afcdf930)
 
 
-:turtle: :ant:   **_private lateinit var suleymanBasaranoglu = ComputerEengineer(junior=true, mobileDeveloper=true)_**
+:turtle:   **_private lateinit var suleymanBasaranoglu = ComputerEengineer(junior=true, mobileDeveloper=true)_** :ant:
