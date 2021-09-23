@@ -7,4 +7,4 @@
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
 [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]][3]
-![][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]
+![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)
