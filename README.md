@@ -6,4 +6,4 @@
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter]http://i.imgur.com/wWzX9uB.png][1], or on [![LinkedIn]https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png][3].
