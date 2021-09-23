@@ -10,7 +10,7 @@
 
 *Text me on* [Linkedin](https://www.linkedin.com/in/basaransuleyman/) 
 
-*Here are what I wrote and told* [Youtube](https://www.youtube.com/channel/UCpP5fwJG9qYnHS0YG13liAg/videos)![Youtube](https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png) or [Medium](https://basaransuleyman.medium.com/)![Medium](https://icons-for-free.com/iconfiles/png/16/logo+media+medium+social+icon-1320193180197134651.png)
+*Here are what I wrote and told* [Youtube](https://www.youtube.com/channel/UCpP5fwJG9qYnHS0YG13liAg/videos)![Youtube](https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png) and [Medium](https://basaransuleyman.medium.com/)![Medium](https://icons-for-free.com/iconfiles/png/16/logo+media+medium+social+icon-1320193180197134651.png)
 
 *Here are what I did when I started* ![GooglePlay](https://icons-for-free.com/iconfiles/png/16/google+googleplay+logo+multimedia+play+player+icon-1320193181644092930.png) [GooglePlayAppMustfit](https://play.google.com/store/apps/details?id=com.proje&hl=en_US&gl=US) [GooglePlayAppShouldWatch](https://play.google.com/store/apps/details?id=com.tanxe.shouldwatchingma&hl=en_US&gl=US)  
 
