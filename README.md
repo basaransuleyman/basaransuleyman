@@ -18,4 +18,4 @@
 ![OS](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/2/1412248789926/f7a97e1d-1915-45fd-b8c5-20e5d934ed73-620x371.png?width=445&quality=45&auto=format&fit=max&dpr=2&s=00e127e43000ecd6f435e012afcdf930)
 
 
-:turtle:   **_private lateinit var suleymanBasaranoglu = ComputerEengineer(junior=true, mobileDeveloper=true)_** :ant:
+:turtle:   **_private lateinit var suleymanBasaranoglu = ComputerEngineer(junior=true, mobileDeveloper=true)_** :ant:
