@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/OS-Microsoft-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/OS-Linux(Ubuntu)-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
-:ear: *Text me on* [Linkedin](https://www.linkedin.com/in/basaransuleyman/) 
+:ear: *Text me on ^_^ * [Linkedin](https://www.linkedin.com/in/basaransuleyman/) 
 
 :gem: *Here are what I wrote and told* [Youtube](https://www.youtube.com/channel/UCpP5fwJG9qYnHS0YG13liAg/videos)![Youtube](https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/YouTube-icon.png) and [Medium](https://basaransuleyman.medium.com/)![Medium](https://icons-for-free.com/iconfiles/png/16/logo+media+medium+social+icon-1320193180197134651.png)
 
