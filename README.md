@@ -1,4 +1,4 @@
-:raising_hand: **My name is Suleyman and I'm a software engineer/mobile developer. I am from Turkey, living in Istanbul, and currently working at Hepsiburada** 
+:raising_hand: **My name is Suleyman and I'm a software engineer/mobile developer. I am from Turkey, living in Istanbul** 
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
