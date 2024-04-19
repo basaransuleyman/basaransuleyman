@@ -12,4 +12,4 @@ Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=basaransuleyman&repo=Multi-Module-Clean-Architecture-Android-Kotlin&theme=holi)](https://github.com/basaransuleyman/Multi-Module-Clean-Architecture-Android-Kotlin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=basaransuleyman&repo=Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin&theme=neon)](https://github.com/basaransuleyman/Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=basaransuleyman&repo=Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin&theme=holi)](https://github.com/basaransuleyman/Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin)
