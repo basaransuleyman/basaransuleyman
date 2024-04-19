@@ -8,4 +8,8 @@
 
 [![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=basaransuleyman&theme=shadow_red&show_icons=true)](https://github.com/basaransuleyman/github-readme-stats)
 
+Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=basaransuleyman&repo=Multi-Module-Clean-Architecture-Android-Kotlin&theme=tokyonight)](https://github.com/basaransuleyman/Multi-Module-Clean-Architecture-Android-Kotlin)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=basaransuleyman&repo=Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin&theme=tokyonight)](https://github.com/basaransuleyman/Compose-FeatureBase-Multi-Module-Clean-Hexagonal-Architecture-Android-Kotlin)
