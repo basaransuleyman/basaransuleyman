@@ -1,4 +1,8 @@
-:raising_hand: **My name is Suleyman and I'm a software engineer/mobile developer. I am from Turkey, living in Istanbul** 
+:raising_hand: **This is an Android Engineer with a comprehensive background in
+designing, developing, and enhancing mobile applications that cater to
+extensive user bases. With a Bachelor’s degree in Computer Engineering and
+significant professional experience, I have honed my skills in a range of
+technologies and methodologies that are crucial for today’s mobile solutions.** 
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=yellow)
 
