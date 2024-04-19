@@ -6,5 +6,5 @@
 
 :gem: *Here are what I wrote and told* [Medium](https://basaransuleyman.medium.com/)
 
-[![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)](https://github.com/basaransuleyman/github-readme-stats)
+[![Suleyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=basaransuleyman&theme=shadow_red&show_icons=true)](https://github.com/basaransuleyman/github-readme-stats)
 
